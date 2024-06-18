@@ -1,0 +1,46 @@
+body{
+    background-color: whitesmoke;
+}
+.dress{
+    display: flex;
+    margin: 30px;
+    /* justify-content: space-between; */
+}
+.sneaker{
+    display: flex;
+    margin: 30px;
+    
+}
+.jewels{
+    display: flex;
+    margin: 30px; 
+}
+.discribe{
+    /* margin: 0; */
+    text-transform: inherit;
+    /* justify-content: none; */
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 60px;
+
+}
+.card{
+    border: transparent;
+    margin: 10px;
+    padding: 5px 15px;
+    text-align: center;
+    background-color: gray;
+    border-radius: 10px;
+    
+
+}
+h1{
+    text-align: center;
+}
+/* footer{
+    height: 50px;
+    background-color: lightslategrey;
+} */
